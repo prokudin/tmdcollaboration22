@@ -16,10 +16,10 @@ Choose any one. You will reproduce either Sivers or Collins asymmetries in SIDIS
 
 Home work:
 
-* Choose any file sivers.nb or collins.nb. Follow the file, calculate the structure functions and plot the asymmetries. Compare your results to plots from example.nb
+* * Choose any file sivers.nb or collins.nb. Follow the file, calculate the structure functions and plot the asymmetries. Compare your results to plots from example.nb
 
-** Use the definitions of Fourier transforms of TMDs from the TMDbook Eq. (2.192), (2.193) and show that they give the same results as the ones you obtain in the previous exercise
+* ** Use the definitions of Fourier transforms of TMDs from the TMDbook Eq. (2.192), (2.193) and show that they give the same results as the ones you obtain in the previous exercise
 
-*** Rewrite the notebooks using Python, SymPy https://www.sympy.org/en/index.html to perform analytical computations
+* *** Rewrite the notebooks using Python, SymPy https://www.sympy.org/en/index.html to perform analytical computations
 
 Write to me prokudin@jlab.org if you have any questions.
