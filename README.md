@@ -7,14 +7,14 @@ Lectures are in the subfolder /Lectures
 
 Run example.nb that shows some plots.
 
-Mathematica exersises are 
+Mathematica exersises I and II are 
 
 sivers.nb
 collins.nb
 
-all_solution.nb contains a solution to exercise 0 to reproduce \$A_{LL}\$ asymmetry in SIDIS
+all_solution.nb contains a solution to exercise 0 to reproduce A_LL asymmetry in SIDIS.
 
-Home work:
+# Home work:
 
 * Choose any file sivers.nb or collins.nb. Follow the file, calculate the structure functions and plot the asymmetries. Compare your results to plots from example.nb
 
