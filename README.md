@@ -1,4 +1,4 @@
-# tmdcollaboration222
+# tmdcollaboration22
 Materials for lectures of A. Prokudin at TMD Collaboration School, Santa Fe, 1/22/22
 
 Start by cloning the repository.
