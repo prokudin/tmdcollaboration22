@@ -7,7 +7,7 @@ Lectures are in the subfolder /Lectures
 
 Run example.nb that shows some plots.
 
-Mathematica exersises I and II are 
+Mathematica exercises I and II are 
 
 sivers.nb
 collins.nb
